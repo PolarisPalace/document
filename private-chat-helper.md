@@ -1,6 +1,6 @@
 ## 联系管理员注册账号
 
-1. 打开 `https://space.bilibili.com`
+1. 打开 [`https://space.bilibili.com`](https://space.bilibili.com)
 2. 打开`开发者工具`（按 `F12` 或 `Ctrl+Shift+I`）
 3. 点击`开发者工具`顶部的选项卡切换到 `Console`（`控制台`），如果没有，请点击 `+` 添加
 4. 在控制台中输入以下命令并回车执行
